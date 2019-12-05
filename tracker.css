@@ -1,0 +1,50 @@
+.header{
+	border-radius: 20px solid #e6e6ff ; 
+	padding: 20px;
+	margin:20px auto;
+	width: 80%;
+	background-color: #e6e6ff;
+	text-align: center;
+	font-family: raleway;
+	
+}
+h1{
+ font-family: raleway;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Calistoga'
+}
+body{
+ background-image: url("img.jpg");
+ background-size: cover;
+ background-repeat: repeat;
+}
+table{
+	border-bottom: 3px solid pink;
+	width: 100%;
+	padding: 20px;
+	font-family: 'Solway', serif;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+th{
+	text-align: center;
+}
+
+th:hover {background-color: pink;
+border-radius: 5px;}
+
+
+.formstyle{
+	border-radius: : 1px solid pink;
+	padding: 10px;
+	text-align: center;
+	width:50%;
+	max-width: 700px;
+	margin:20px auto;
+	font-family: 'Calistoga', cursive;
